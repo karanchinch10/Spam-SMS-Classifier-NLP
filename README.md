@@ -10,3 +10,5 @@ Spam SMS Classifier NLP 98% precision score
 * Trained model with various ML algorithms and compare its performance by precision score and time taken for prediction
 * The best performance was obtained by MNB and SVM 
 * Tech Tools Used - Python,numpy,pandas,nltk,sklearn
+  
+  * [View Project](https://github.com/karanchinch10/Spam-SMS-Classifier-NLP/blob/main/spam%20sms%20classifiers%2098%25%20accuracy.ipynb) 💝
